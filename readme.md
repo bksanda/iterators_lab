@@ -1,3 +1,6 @@
+###2014-2015, WDI COURSE ASSIGNMENT
+***
+
 #Iterators Mini Lab
 
 Write the following functions
